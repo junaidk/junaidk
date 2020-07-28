@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**junaidk/junaidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2> Hey there! I'm Junaid.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
