@@ -4,18 +4,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 I’m currently working on making Kubernetes easier for developers.
-- 🎓 &nbsp; Studied Computer Science from LUMS School of Science and Engineering.
-- 💼 &nbsp; Working as a Team Lead Cloudplex Inc.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Distributed Systems Design and Microservices.
+- 🎓 Studied Computer Science from LUMS School of Science and Engineering.
+- 💼 Working as a Team Lead Cloudplex Inc.
+- 🌱 Learning more about Cloud Architecture, Distributed Systems Design and Microservices.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/junaid-khalid-ops/), [Twitter](https://twitter.com/Junaid_kld)
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; GoLang | Python | K8s | Docker
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown 
+- 💻 GoLang | Python | K8s | Docker
+- 🛢 MySQL | MongoDB
+- 🔧 Git | Markdown 
 
 <br/>
 
