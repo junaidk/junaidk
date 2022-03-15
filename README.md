@@ -7,14 +7,14 @@
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 I’m currently working on making Kubernetes easier for developers.
 - 🎓 Studied Computer Science from LUMS School of Science and Engineering.
-- 💼 Working as a Team Lead Cloudplex Inc.
+- 💼 Working as a Backend developer at DeliveryHero SE.
 - 🌱 Learning more about Cloud Architecture, Distributed Systems Design and Microservices.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/junaid-khalid-ops/), [Twitter](https://twitter.com/Junaid_kld)
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 GoLang | Python | K8s | Docker
-- 🛢 MySQL | MongoDB
+- 🛢 Postgress | MongoDB
 - 🔧 Git | Markdown 
 
 <br/>
